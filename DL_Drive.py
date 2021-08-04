@@ -1,6 +1,5 @@
 import requests
 import requests_ftp
-from bs4 import BeautifulSoup
 import os
 import gdown
 
