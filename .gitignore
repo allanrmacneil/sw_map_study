@@ -1,0 +1,7 @@
+# data #
+*.hdf
+*.nc
+*.h5
+*.fits
+*.fits.gz
+*.cdf
